@@ -59,7 +59,7 @@ The default Identity Provider configuration is as follows:
     * "urn:oid:1.3.6.1.4.1.1076.20.100.10.10.1" is "guest"
 * There is a default certificate and private key available
 * By default the ACS endpoint should be provided by the SP as an attribute in the AuthnRequest.
-  If the ACS endpoint is set using the IdP api this is not neccesary. Use of the api overrides values set in AuthnRequests
+  If the ACS endpoint is set using the IdP api this is not necessary. Use of the api overrides values set in AuthnRequests
 
 The default Service Provider configuration is as follows:
 
